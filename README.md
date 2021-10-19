@@ -1,6 +1,6 @@
 # Project about Smart Dental Care
 
-Project Live Link:  [LEARNING HUB](https://smart-dental-care-e3e93.web.app/).
+Project Live Link:  [Smart Dental Care](https://smart-dental-care-e3e93.web.app/).
 
 ## Described the project below with some bullet points
 
