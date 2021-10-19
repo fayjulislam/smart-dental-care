@@ -1,0 +1,13 @@
+.service-card {
+    transition: all .4s;
+}
+.card:hover .service-body {
+    transition: all .4s;
+    color: #fff;
+    background-color: #00a357;
+}
+
+.img{
+    padding: 10px;
+    border-radius: 20px !important;
+}

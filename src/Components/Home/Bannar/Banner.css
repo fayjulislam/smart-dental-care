@@ -1,0 +1,20 @@
+.banner-bg {
+    background-image: linear-gradient(0deg, rgba(9, 88, 42, 0.4), rgba(6, 167, 92, 0.4)),url('../../../image/banner/banner-3.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+}
+.banner-text {
+    position: relative;
+    top: 30%;
+    transform: translateY(50%);
+}
+.banner-text h1 {
+    color: #fff;
+}
+.banner-text p {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 400;
+}
