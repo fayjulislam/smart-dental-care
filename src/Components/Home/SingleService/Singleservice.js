@@ -32,7 +32,7 @@ const Singleservice = () => {
                 </div>
                 <div className="text-center">
                     <Link to="/services">
-                        <Button variant="info fs-5 text-bolder text-white">Another Services</Button>
+                        <Button variant="success fs-5 text-bolder text-white">Back to Services</Button>
                     </Link>
                 </div>
             </div>

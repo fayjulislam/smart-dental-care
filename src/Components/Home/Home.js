@@ -3,7 +3,7 @@ import Banner from './Bannar/Banner';
 import Feature from './Feature/Feature';
 import './Home.css';
 import { Button, Row } from 'react-bootstrap';
-import medentImg from '../../image/about/about-3.jpg';
+import dentalImg from '../../image/about/about-3.jpg';
 import { Link } from 'react-router-dom';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faUser, faHeartBroken, faClock, faUserMd } from '@fortawesome/free-solid-svg-icons'
@@ -22,19 +22,18 @@ const Home = () => {
         <div>
             <Banner></Banner>
             <Feature></Feature>
-            <section className="we-medent mb-5">
+            <section className="we-dental mb-5">
                 <div className="container">
                     <div className="row">
                         <div className="col-md-6 col-12">
-                            <div className="we-medent-img">
-                                <img className="medent-img img-fluid" src={medentImg} alt="" />
+                            <div className="we-dental-img">
+                                <img className="dental-img img-fluid" src={dentalImg} alt="" />
                             </div>
                         </div>
                         <div className="col-md-6 col-12">
-                            <div className="we-medent-text pt-3">
+                            <div className="we-dental-text pt-3">
                                 <h2 className="fw-bolder">OUR WELCOMING
                                     DENTAL CLINIC</h2>
-                                <hr className="high-light" />
                                 <p className="text-justify text-muted">
                                     At Smart Dental Clinic, looking after your dental health is our passion. We want you to have your own unique smile that you will be proud of. We provide a comprehensive assessment and treatment planning to deliver the most appropriate treatment option to each individual patient and the given situation.
                                 </p>
@@ -71,7 +70,7 @@ const Home = () => {
                                 <span className="fs-1">
                                     {user}
                                 </span>
-                                <h5>819</h5>
+                                <h5>5687</h5>
                                 <p>Satisfied Patients</p>
                             </div>
                         </div>
@@ -80,7 +79,7 @@ const Home = () => {
                                 <span className="fs-1">
                                     {heartBroken}
                                 </span>
-                                <h5>320</h5>
+                                <h5>589</h5>
                                 <p>Successfull Surgeries</p>
                             </div>
                         </div>
@@ -89,7 +88,7 @@ const Home = () => {
                                 <span className="fs-1">
                                     {clock}
                                 </span>
-                                <h5>3200</h5>
+                                <h5>96000</h5>
                                 <p>Work Hours</p>
                             </div>
                         </div>
@@ -98,7 +97,7 @@ const Home = () => {
                                 <span className="fs-1">
                                     {doctor}
                                 </span>
-                                <h5>30</h5>
+                                <h5>50</h5>
                                 <p>Spacialist Doctors</p>
                             </div>
                         </div>
@@ -107,8 +106,7 @@ const Home = () => {
             </section>
             <section className="mb-5 mt-5">
                 <div className="container shadow-lg px-2 py-3 p-md-5">
-                    <h2 className="text-center fw-bolder">Services</h2>
-                    <hr className="high mx-auto"></hr>
+                    <h2 className="text-center display-4">Services</h2>
                     <Row xs={1} md={3} className="g-4 mt-3">
                         {
                             services.slice(0, 6).map(service => (<Service

@@ -1,56 +1,56 @@
 [
     {
         "id": 1,
-        "name": "Dr. Ursula Smith",
-        "designation": "Endodontics Specialist",
-        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/1.jpg"
+        "name": "Dr. Keka Ferdous",
+        "designation": "Dentist",
+        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/7.jpg"
     },
     {
         "id": 2,
-        "name": "Dr. Ursula Smith",
-        "designation": "Pediatric Dentist",
-        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/2.jpg"
+        "name": "Dr. Jhankar Mahbub",
+        "designation": "Dentist",
+        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/7.jpg"
     },
     {
         "id": 3,
-        "name": "Dr. Bernard Dent",
+        "name": "Dr. Teli Samad",
         "designation": "Dentist",
-        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/3.jpg"
+        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/7.jpg"
     },
     {
         "id": 4,
-        "name": "Dr. Ursula Smith",
-        "designation": "Pediatric Dentistt",
-        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/4.jpg"
+        "name": "Dr. Uganda Akkas",
+        "designation": "Dentist",
+        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/7.jpg"
     },
     {
         "id": 5,
         "name": "Dr. Bernard Dent",
         "designation": "Dentist",
-        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/5.jpg"
+        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/7.jpg"
     },
     {
         "id": 6,
-        "name": "Dr. Ursula Smith",
-        "designation": "Endodontics Specialist",
-        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/6.jpg"
+        "name": "Dr. Hunulusu Das",
+        "designation": "Dentist",
+        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/7.jpg"
     },
     {
         "id": 7,
-        "name": "Dr. Bernard Dent",
-        "designation": "Pediatric Dentistt",
+        "name": "Dr. Dent Smith",
+        "designation": "Dentist",
         "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/7.jpg"
     },
     {
         "id": 8,
-        "name": "Dr. Ursula Smith",
-        "designation": "Endodontics Specialist",
-        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/2.jpg"
+        "name": "Dr. Brandon Smith",
+        "designation": "Dentist",
+        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/7.jpg"
     },
     {
         "id": 9,
-        "name": "Dr. Bernard Dent",
+        "name": "Dr. John Doe",
         "designation": "Dentist",
-        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/6.jpg"
+        "image": "https://themecrazy.net/html/medison/medison-preview/img/doctors/7.jpg"
     }
 ]

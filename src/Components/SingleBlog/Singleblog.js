@@ -32,7 +32,7 @@ const Singleblog = () => {
                 </div>
                 <div className="text-center">
                     <Link to="/blogs">
-                        <Button variant="info fs-5 text-bolder text-white">Another Blogs</Button>
+                        <Button variant="success fs-5 text-bolder text-white">Back to services</Button>
                     </Link>
                 </div>
             </div>

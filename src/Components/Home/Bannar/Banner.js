@@ -13,7 +13,7 @@ const Banner = () => {
                             <h1 className="pb-3 fw-bolder">A REASON TO SMILE</h1>
                             <p className="pb-3">We provide a gentle, comprehensive and personalised approach in dentistry.</p>
                             <Link to="/appointment">
-                                <Button className="fs-6 fw-bolder text-white" variant="success">Make an Appointment</Button>
+                                <Button className="fs-6 fw-bolder text-white" variant="success">Get An Appointment</Button>
                             </Link>
                         </div>
                     </div>
